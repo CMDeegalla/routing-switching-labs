@@ -23,7 +23,8 @@ network setup and troubleshooting skills.
 
 ## Quick Diagram: Routing Topology
 
+```markdown
 ```mermaid
 flowchart LR
-PC1["PC1"] --- SW1["Switch"] --- R1["Router 1"]
-R1 --- R2["Router 2"] --- R3["Router 3"] --- SW2["Switch"] --- PC2["PC2"]
+PC1[PC1] --- SW1[Switch] --- R1[Router1]
+R1 --- R2[Router2] --- R3[Router3] --- SW2[Switch] --- PC2[PC2]
