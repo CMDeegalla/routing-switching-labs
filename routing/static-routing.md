@@ -1,0 +1,5 @@
+# Static Routing (Notes)
+
+## Example
+R1:
+ip route 192.168.2.0 255.255.255.0 10.0.0.2

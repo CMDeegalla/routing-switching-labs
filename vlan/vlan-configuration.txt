@@ -1,0 +1,9 @@
+# VLAN Configuration (Sample)
+enable
+conf t
+vlan 10
+name STAFF
+vlan 20
+name STUDENTS
+end
+wr
