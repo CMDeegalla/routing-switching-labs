@@ -20,6 +20,15 @@ network setup and troubleshooting skills.
 - Cisco router and switch configuration
 - Network topology design and verification
 
+  ## ✅ Lab Verification
+The following commands were used to verify correct operation:
+
+- `show ip route`
+- `show ip ospf neighbor`
+- `show vlan brief`
+- `ping` and `tracert` between end devices
+
+
 ## 📥 Cisco Packet Tracer Lab Downloads
 
 The following Packet Tracer lab files demonstrate hands-on experience with
