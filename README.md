@@ -19,6 +19,21 @@ network setup and troubleshooting skills.
 - Routing protocol configuration
 - Logical network design
 
+## 📥 Cisco Packet Tracer Lab Downloads
+
+The following Packet Tracer lab files demonstrate hands-on experience with
+routing, switching, and firewall configuration. All files are available for
+download and verification.
+
+🔹 **Basic ASA Firewall Configuration**  
+[⬇️ Download Packet Tracer File](https://github.com/CMDeegalla/routing-switching-labs/raw/main/packet-tracer/C.M.Deegalla_34169_BasicASA.pkt)
+
+🔹 **Cisco Routing & Switching Lab**  
+[⬇️ Download Packet Tracer File](https://github.com/CMDeegalla/routing-switching-labs/raw/main/packet-tracer/cisco.pkt)
+
+📁 **View All Packet Tracer Labs**  
+👉 https://github.com/CMDeegalla/routing-switching-labs/tree/main/packet-tracer
+
 ---
 
 ## Quick Diagram: Routing Topology
