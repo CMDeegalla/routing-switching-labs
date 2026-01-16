@@ -14,10 +14,11 @@ network setup and troubleshooting skills.
 - Cisco Packet Tracer
 - Linux CLI
 
-## Key Skills Demonstrated
-- Network segmentation
-- Routing protocol configuration
-- Logical network design
+## 🧠 Skills Demonstrated
+- VLAN configuration and segmentation
+- Static routing and OSPF (single area)
+- Cisco router and switch configuration
+- Network topology design and verification
 
 ## 📥 Cisco Packet Tracer Lab Downloads
 
